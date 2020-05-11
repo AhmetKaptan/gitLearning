@@ -7,9 +7,6 @@ public class summer {
         System.out.println("i like summer");
 
 
-        System.out.println("weather is so nice");
-
-
 
 
 
