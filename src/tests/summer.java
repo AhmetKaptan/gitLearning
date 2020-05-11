@@ -1,0 +1,19 @@
+package tests;
+
+public class summer {
+    public static void main(String[] args) {
+
+
+        System.out.println("i like summer");
+
+
+        System.out.println("weather is so nice");
+
+
+
+
+
+
+
+    }
+}

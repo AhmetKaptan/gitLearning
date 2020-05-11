@@ -8,10 +8,7 @@ public class HelloGitWorld {
         System.out.println("ahmet kaptan");
 
 
-
-
-
-
+    }
 
 
 }
